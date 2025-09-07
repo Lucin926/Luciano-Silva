@@ -2,7 +2,7 @@
 <h1 align="center">👋 Olá, eu sou o Luciano Silva</h1>
 <p align="center">
   <strong>Desenvolvedor Full Stack em formação</strong><br>
-  <em>18 anos • 2º período da faculdade • aprendendo e construindo projetos práticos</em>
+  18 anos | 2º período da faculdade | aprendendo e construindo projetos práticos
 </p>
 
 <p align="center">
@@ -14,12 +14,8 @@
 
 ### 🚀 Sobre mim
 
-- 🧑‍💻 Foco atual: consolidando fundamentos de **frontend (HTML, CSS, React)** e iniciando no **backend com Python e java**.
-- 🌱 Stack em estudo: HTML, CSS, React, Python e Java.
-- 🎯 Meta de curto prazo: evoluir mo meu projeto chamado My To‑Do  e criar mais projetos pequenos/grandes.
-- 🎓 Faculdade: cursando 2º período.
-- 💡 Interesses: organização de código, interfaces simples e funcionais, lógica de programação e etc
-- 🔁 Filosofia: A grande importância de aprender construindo é que a cada aprendizado adquirido, grandes projeto são melhorados e com o tempo voce se torna imparavel.
+- Meu nome é Luciano d Silva Nogueira estou cursando o 2º período de Ciência da Computação na UNIP (Universidade Paulista). Atualmente estou aprendendo os fundamentos de frontend (HTML, CSS e React) e iniciando no backend com Python e Java. As tecnologias que estou estudando é composta por HTML, CSS, React, Python e Java. No curto prazo, minha meta é evoluir no meu projeto chamado My To-Do e criar novos projetos, tanto pequenos quanto grandes.
+- ***Minha Filosofia**: Acredito que a grande importância de aprender construindo é que, a cada aprendizado adquirido, os projetos vão sendo melhorados e, com o tempo, você se torna imparável.
 
 ### 🔄 Estilo de Trabalho
 
@@ -31,22 +27,30 @@
 
 ### 🙋‍♂️ Colaboração
 
-- Interesses futuros: contribuir com pequenos repositórios open source.
-- Posso ajudar iniciantes em: lógica básica, HTML e CSS, python.
+- Interesses futuros: contribuir com pequenos/médios e grandes repositórios open source.
+- Posso ajudar iniciantes em: lógica básica, HTML, CSS, React e python.
 
 ---
 
 ### ⚡ Curiosidades
 
 - Gosto muito de Programação.  
-- **hobbies**: Quando surgi uma oportunidade gosto muito de jogar futebol, gosto de ouvir música, cantar, e se Deus quiser, comprar um violão para eu aprender tocar
+- **hobbies**: No meu tempo livre gosto muito de jogar futebol, gosto de ouvir música, cantar, e se Deus quiser, vou comprar um violão para eu aprender tocar também que é algo que sempre apreciei mas nunca aprendi de verdade
   
 
 ---
 
-### 📫 Contato
+### Linguagens e Tecnologias
+<img width="50" height="512" alt="programing" src="https://github.com/user-attachments/assets/a5d1aebf-453e-43ee-a62c-92960ab9dab3" />
+<img width="50" height="512" alt="python" src="https://github.com/user-attachments/assets/299051a4-4c18-4f89-ba70-e93ca24f700a" />
+<img width="50" height="512" alt="html" src="https://github.com/user-attachments/assets/98cd71eb-00f9-4fc4-8fa9-326a119d3b24" />
+<img width="50" height="512" alt="css-3" src="https://github.com/user-attachments/assets/2a672d67-c645-4f24-8950-ec137592029a" />
 
-**Email**:lucianogueira156@gmail.com
+
+
+
+
+          
 
 
 
