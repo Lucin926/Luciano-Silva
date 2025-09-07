@@ -16,14 +16,13 @@
 
 - 🧑‍💻 Foco atual: consolidando fundamentos de **frontend (HTML, CSS, React)** e iniciando no **backend com Python e java**.
 - 🌱 Stack em estudo: HTML, CSS, React, Python e Java.
-- 🎯 Meta de curto prazo: evoluir a My To‑Do  e criar mais projetos pequenos/grandes.
+- 🎯 Meta de curto prazo: evoluir mo meu projeto chamado My To‑Do  e criar mais projetos pequenos/grandes.
 - 🎓 Faculdade: cursando 2º período.
 - 💡 Interesses: organização de código, interfaces simples e funcionais, lógica de programação e etc
 - 🔁 Filosofia: A grande importância de aprender construindo é que a cada aprendizado adquirido, grandes projeto são melhorados e com o tempo voce se torna imparavel.
 
 ### 🔄 Estilo de Trabalho
 
-- Simplicidade → depois refatoração.
 - Aprender fazendo.
 - Código legível > complicado.
 - Evolução incremental.
