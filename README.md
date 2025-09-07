@@ -31,7 +31,6 @@
 
 ### 🙋‍♂️ Colaboração
 
-- Aberto a: feedback, revisão de código, dicas de estudo.
 - Interesses futuros: contribuir com pequenos repositórios open source.
 - Posso ajudar iniciantes em: lógica básica, HTML e CSS, python.
 
