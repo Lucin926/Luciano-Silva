@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mim
 
-- Meu nome é Luciano d Silva Nogueira estou cursando o 2º período de Ciência da Computação na UNIP (Universidade Paulista). Atualmente estou aprendendo os fundamentos de frontend (HTML, CSS e React) e iniciando no backend com Python e Java. As tecnologias que estou estudando é composta por HTML, CSS, React, Python e Java. No curto prazo, minha meta é evoluir no meu projeto chamado My To-Do e criar novos projetos, tanto pequenos quanto grandes.
+- Meu nome é Luciano d Silva Nogueira estou cursando o 2º período de Ciência da Computação na UNIP (Universidade Paulista). Atualmente estou aprendendo os fundamentos de frontend (HTML, CSS e React) e iniciando no backend com Python e Java. As tecnologias que estou estudando é composta por HTML, CSS, React, Python e Java. No curto prazo, minha meta é evoluir no meu projeto chamado **Direction** e criar novos projetos, tanto pequenos quanto grandes.
 - ***Minha Filosofia**: Acredito que a grande importância de aprender construindo é que, a cada aprendizado adquirido, os projetos vão sendo melhorados e, com o tempo, você se torna imparável.
 
 ### 🔄 Estilo de Trabalho
