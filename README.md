@@ -11,6 +11,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucin926&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucin926&hide_progress=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luciano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -56,22 +57,3 @@
   
 
 ---
-
-### Linguagens e Tecnologias
-<img width="50" height="512" alt="programing" src="https://github.com/user-attachments/assets/a5d1aebf-453e-43ee-a62c-92960ab9dab3" />
-<img width="50" height="512" alt="python" src="https://github.com/user-attachments/assets/299051a4-4c18-4f89-ba70-e93ca24f700a" />
-<img width="50" height="512" alt="html" src="https://github.com/user-attachments/assets/98cd71eb-00f9-4fc4-8fa9-326a119d3b24" />
-<img width="50" height="512" alt="css-3" src="https://github.com/user-attachments/assets/2a672d67-c645-4f24-8950-ec137592029a" />
-
-
-
-
-
-          
-
-
-
-<p align="center">
-<br>
-  <sub>Última atualização: 2025-09-07</sub>
-</p>
